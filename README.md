@@ -9,8 +9,8 @@
 ---
 
 - 🌱 Currently mastering **Advanced SQL**, **TensorFlow**, and enhancing my skills in **JavaScript (MERN stack)**.
-- 💡 Passionate about **AI projects**, **backend development**, and creating **innovative web applications**.
-- 🤝 Looking for collaborations in AI, backend, and web applications.
+- 💡 Passionate about **AI projects**, **Data science**, and creating **innovative applications**.
+- 🤝 Looking for collaborations in AI & DS.
 - 📫 Reach me at: [dattavignesh001@gmail.com](mailto:dattavignesh001@gmail.com)
 - 🌐 Check out my portfolio: [Portfolio Website](https://my-portfolio-2zpt.onrender.com/)
 
@@ -24,7 +24,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dattu145)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datta-vignesh-b09437223/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dattu145233)
 
 ---
 
