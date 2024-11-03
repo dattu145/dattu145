@@ -25,6 +25,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dattu145)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datta-vignesh-b09437223/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dattu145233)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dattu145233/)
+
 
 ---
 
