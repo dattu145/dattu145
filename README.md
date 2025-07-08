@@ -95,6 +95,7 @@ I'm a **Java Full Stack Developer** focused on **Site Reliability Engineering (S
 ---
 
 ## 🏆 Achievements
+
 - Completed DevOps Bootcamps (Docker, K8s, Jenkins)
 - Certified in AWS, Linux & Networking
 - Final Year B.Tech Project: Virtual Health Assistant (AI + Web + CV)
@@ -106,14 +107,15 @@ I'm a **Java Full Stack Developer** focused on **Site Reliability Engineering (S
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dattu145)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datta-vignesh-b09437223/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dattu145233)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dattu145233/)
 
 
 ---
 
+
 **Email:** dattavignesh001@gmail.com  
 **Portfolio:** [Portfolio Website](https://my-portfolio-2zpt.onrender.com/)
+
 
 ---
 
