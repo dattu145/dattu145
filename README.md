@@ -13,11 +13,12 @@ I'm a **Java Full Stack Developer** focused on **Site Reliability Engineering (S
 
 ---
 
-## What I’m Working On
-- ⚙️ Mastering **DevOps & SRE tools**: Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, Grafana, Jaeger, and more.
-- 💻 Building **full stack projects** using **Spring Boot + ReactJS + MySQL** with CI/CD and containerization.
-- 🧠 Practicing **DSA in Java** and learning **System Design** for scalable backend architecture.
-- ☁️ Deploying apps on **AWS**, using **EC2**, **RDS**, and **Cloud Monitoring** tools.
+## 🧠 What I’m Working On
+
+- Mastering **DevOps & SRE tools**: Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, Grafana, Jaeger, and more.
+- Building **full stack projects** using **Spring Boot + ReactJS + MySQL** with CI/CD and containerization.
+- Practicing **DSA in Java** and learning **System Design** for scalable backend architecture.
+- Deploying apps on **AWS**, using **EC2**, **RDS**, and **Cloud Monitoring** tools.
 
 ---
 
