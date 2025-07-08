@@ -9,11 +9,11 @@
 
 ---
 
-🔧 I'm a **Java Full Stack Developer** focused on **Site Reliability Engineering (SRE)**, combining backend expertise with **DevOps, Cloud Infrastructure**, and **System Design** to build scalable, production-ready systems.
+I'm a **Java Full Stack Developer** focused on **Site Reliability Engineering (SRE)**, combining backend expertise with **DevOps, Cloud Infrastructure**, and **System Design** to build scalable, production-ready systems.
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 - ⚙️ Mastering **DevOps & SRE tools**: Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, Grafana, Jaeger, and more.
 - 💻 Building **full stack projects** using **Spring Boot + ReactJS + MySQL** with CI/CD and containerization.
 - 🧠 Practicing **DSA in Java** and learning **System Design** for scalable backend architecture.
@@ -23,7 +23,7 @@
 
 ## 🧭 My Roadmaps
 
-### 🔹 Java Full Stack Developer (6 Levels)
+### Java Full Stack Developer (6 Levels)
 
 | Level | Key Skills |
 |-------|------------|
@@ -34,7 +34,9 @@
 | **5. DevOps Integration** | Docker, Jenkins, CI/CD, AWS deployment |
 | **6. Final Projects** | Full-stack apps + System Design & Documentation |
 
-### 🔸 DevOps + SRE Journey
+
+
+### DevOps + SRE Journey
 
 | Area | Tools/Skills |
 |------|--------------|
@@ -52,18 +54,18 @@
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming
+### Programming
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=yellow)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚙️ Backend & DevOps
+### Backend & DevOps
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -72,7 +74,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%230074c1.svg?style=for-the-badge&logo=helm&logoColor=white)
 
-### ☁️ Cloud & Monitoring
+### Cloud & Monitoring
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -93,10 +95,10 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Completed DevOps Bootcamps (Docker, K8s, Jenkins)
-- ✅ Certified in AWS, Linux & Networking
-- ✅ Final Year B.Tech Project: Virtual Health Assistant (AI + Web + CV)
-- 🛠 Building a custom SRE-ready CI/CD pipeline project
+- Completed DevOps Bootcamps (Docker, K8s, Jenkins)
+- Certified in AWS, Linux & Networking
+- Final Year B.Tech Project: Virtual Health Assistant (AI + Web + CV)
+- Building a custom SRE-ready CI/CD pipeline project
 
 ---
 
@@ -107,12 +109,14 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dattu145233)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dattu145233/)
 
----
-
-📫 **Email:** dattavignesh001@gmail.com  
-🌐 **Portfolio:** [Portfolio Website](https://my-portfolio-2zpt.onrender.com/)
 
 ---
+
+**Email:** dattavignesh001@gmail.com  
+**Portfolio:** [Portfolio Website](https://my-portfolio-2zpt.onrender.com/)
+
+---
+
 
 > _“Code with purpose, automate with precision, and scale with resilience.”_
 
