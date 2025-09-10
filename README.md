@@ -1,56 +1,108 @@
-<div align="center"><h1>Dattu - Java Full Stack Developer</h1></div>
-<div align="center"><!-- Animated header with waving effect --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2520I'm%2520Dattu&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Java%2520Full%2520Stack%2520Developer&descAlignY=55" alt="Header"><!-- Animated typing text --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22F72E&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Building+Scalable+Solutions;Open+Source+Contributor;GSSoC'25+Participant" alt="Typing SVG"><!-- Animated badges with hover effects --><div class="badges" style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;"> <a href="https://github.com/dattu145?tab=followers"> <img src="https://img.shields.io/github/followers/dattu145?logo=github&style=for-the-badge&labelColor=000000&color=20c997" alt="GitHub followers" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> </a> <img src="https://komarev.com/ghpvc/?username=dattu145&label=Profile%2520Views&color=0e75b6&style=for-the-badge&labelColor=000000" alt="Profile views" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> <img src="https://img.shields.io/badge/GSSoC'25-Contributor-brightgreen?style=for-the-badge&labelColor=000000" alt="GSSoC Contributor" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> </div></div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Dattu&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=55" alt="Header"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22F72E&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Building+Scalable+Solutions;Open+Source+Contributor;GSSoC'25+Participant" alt="Typing SVG"/>
+
+<br>
+<a href="https://github.com/dattu145?tab=followers">
+  <img src="https://img.shields.io/github/followers/dattu145?logo=github&style=for-the-badge&labelColor=000000&color=20c997" alt="GitHub followers"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=dattu145&label=Profile%2520Views&color=0e75b6&style=for-the-badge&labelColor=000000" alt="Profile views"/>
+<img src="https://img.shields.io/badge/GSSoC'25-Contributor-brightgreen?style=for-the-badge&labelColor=000000" alt="GSSoC Contributor"/>
+
+</div>
 
 
 
-## 🛠️ Tech Stack
-### ⚙️ Backend
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #f89820, #5382a1); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Java</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #6db33f, #4a7b4a); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Spring</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #6db33f, #2e5c2e); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Spring Boot</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #339933, #267326); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Node.js</p> </div>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #3776ab, #2c5e87); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Python</p> </div> </div>
 
-### 🎨 Frontend
+# Tech Stack
+- ###  Backend
+<div align="center">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #f7df1e, #d6ba32); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">JavaScript</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #007acc, #0062a3); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">TypeScript</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #61dafb, #21a1c4); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">React</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #e34f26, #c53717); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">HTML5</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #1572b6, #0e5a9d); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">CSS3</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #38b2ac, #2c9c96); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Tailwind CSS</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #0081cb, #0066a6); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Material-UI</p> </div> </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
 
-### 🗄️ Database
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #4479a1, #32658c); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">MySQL</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #336791, #25527a); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">PostgreSQL</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #47a248, #3d8b3d); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">MongoDB</p> </div> </div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #ff9900, #e68600); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">AWS</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #2496ed, #1a7bc2); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Docker</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #d24939, #b33b2d); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Jenkins</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #f05032, #d43618); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Git</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #181717, #000000); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">GitHub</p> </div> </div>
-
-### 🔧 Tools
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #d22128, #b31b21); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Apache Maven</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #02303a, #011c23); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Gradle</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #ff6c37, #e65525); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Postman</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #000000, #2c2255); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">IntelliJ IDEA</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #007acc, #0062a3); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">VS Code</p> </div> <div class="skill-item" style="display: flex; flex-direction: column; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60" height="60" style="border-radius: 50%; padding: 10px; background: linear-gradient(135deg, #2c2255, #493b80); box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"> <p style="margin-top: 10px; font-weight: bold;">Eclipse</p> </div> </div>
+</div>
 
 
-### 📊 GitHub Stats
+- ### Frontend
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60"/>
+
+</div>
+
+
+- ### Database
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
+
+</div>
+
+
+- ###  Cloud & DevOps
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+
+</div>
+
+- ### Tools
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60"/>
+
+</div>
+
+
+<br><br>
+
+## GitHub Stats
 
 <div align="center"><!-- Snake animation -->
 <img src='https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg'>
 
 <!-- GitHub Stats with animation --><p align="center"> <a href="https://github.com/dattu145"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dattu145&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Dattu's github stats" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"/> </a> </p><details open align="center"> <summary><h3>📈 More Stats</h3></summary> <br> <div align="center"> <a href="https://github.com/dattu145"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dattu145&theme=algolia" width="100%" alt="Profile Details" /> <br><br>
-text
+
+<br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dattu145&theme=algolia" width="31%" align="left" alt="Repos per Language" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" style="transition: all 0.3s ease;"/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dattu145&theme=algolia" width="31%" align="right" alt="Most Commit Language" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" style="transition: all 0.3s ease;"/>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dattu145&theme=algolia" width="31%" align="center" title="🦉 Night owl" alt="Productive Time" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" style="transition: all 0.3s ease;"/>
   
-  <br><br>
 </a>
 
-<!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattu145&theme=algolia&card_width=1000" alt="GitHub Streak" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"/>
 
 <br><br>
 
-<!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dattu145&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="Activity Graph" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"/>
 
 <br>
 
-<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=dattu145&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" alt="Trophies" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"/>
 </div> </details><!-- Snake animation dark -->
 <img src='https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg'>
@@ -59,10 +111,27 @@ text
 
 
 
+<br><br>
+# 🤝 Connect With Me
 
-## 🤝 Connect With Me
+<p align="center">
+  <a href="https://github.com/dattu145">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/datta-vignesh-b09437223/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/dattu145233/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://my-portfolio-2zpt.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:dattavignesh001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<p align="center"> <a href="https://github.com/dattu145"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> </a> <a href="https://www.linkedin.com/in/datta-vignesh-b09437223/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> </a> <a href="https://leetcode.com/u/dattu145233/"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> </a> <a href="https://my-portfolio-2zpt.onrender.com/"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> </a> <a href="mailto:dattavignesh001@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" style="transition: all 0.3s ease;"> </a> </p>
 
 
 
