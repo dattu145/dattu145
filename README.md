@@ -115,22 +115,23 @@
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/dattu145">
+  <a href="https://github.com/dattu145" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/datta-vignesh-b09437223/">
+  <a href="https://www.linkedin.com/in/datta-vignesh-b09437223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/dattu145233/">
+  <a href="https://leetcode.com/u/dattu145233/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://my-portfolio-2zpt.onrender.com/">
+  <a href="https://my-portfolio-2zpt.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:dattavignesh001@gmail.com">
+  <a href="mailto:dattavignesh001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 
 
 
