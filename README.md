@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Dattu&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=55" alt="Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22F72E&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Building+Scalable+Solutions;Open+Source+Contributor;GSSoC'25+Participant" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22F72E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Solutions;Open+Source+Contributor;GSSoC'25+Participant" alt="Typing SVG"/>
 
 <br>
 <a href="https://github.com/dattu145?tab=followers">
